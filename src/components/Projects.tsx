@@ -40,7 +40,7 @@ const Projects = () => {
     },
     {
       title: "E-commerce Business Dashboards - C Suite",
-      description: "Automated executive dashboards in Looker Studio", "reducing manual reporting time by 75%", "and enabling faster decision-making, providing clear visibility into the customer journey and revenue impact of each touchpoint.",
+      description: "Automated executive dashboards in Looker Studio, reducing manual reporting time by 75%, and enabling faster decision-making, providing clear visibility into the customer journey and revenue impact of each touchpoint",
       icon: <TrendingUp className="h-8 w-8 text-primary" />,
       technologies: ["GA4", "Customer Journey Analytics", "Looker Studio", "Power BI"],
       outcomes: ["End-to-end journey visibility", "30% improvement in budget allocation", "Enhanced customer insights"]

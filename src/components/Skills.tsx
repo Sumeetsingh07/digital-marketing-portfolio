@@ -13,10 +13,10 @@ const Skills = () => {
     { name: 'Looker Studio', level: 90, icon: <Zap className="h-6 w-6" /> },
     { name: 'Meta Ads', level: 93, icon: <MousePointer className="h-6 w-6" /> },
     { name: 'Google Ads', level: 91, icon: <MousePointer className="h-6 w-6" /> },
-    { name: 'LinkedIn Ads', level: 92, icon: <TrendingUp className="h-6 w-6" /> }
+    { name: 'LinkedIn Ads', level: 92, icon: <TrendingUp className="h-6 w-6" /> },
     { name: 'Hootsuite', level: 93, icon: <MousePointer className="h-6 w-6" /> },
     { name: 'PowerPoint', level: 99, icon: <MousePointer className="h-6 w-6" /> },
-    { name: 'Campaign Manager', level: 83, icon: <TrendingUp className="h-6 w-6" /> }
+    { name: 'Campaign Manager', level: 83, icon: <TrendingUp className="h-6 w-6" /> },
     { name: 'Salesforce', level: 80, icon: <TrendingUp className="h-6 w-6" /> }
   ];
 
