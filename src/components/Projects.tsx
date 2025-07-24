@@ -12,37 +12,37 @@ const Projects = () => {
     },
       {
       title: "End-2-End GA4 Tagging & Implementation",
-      description: "Optimized cross-platform advertising campaigns across Meta and Google Ads, achieving 60% reduction in cost-per-acquisition while increasing lead quality.",
+      description: "Optimized cross-platform website, campaigns UTMs across Meta and Google Ads, achieving 70% end to end customer journey optimization while increasing funnel quality.",
       icon: <Target className="h-8 w-8 text-primary" />,
-      technologies: ["Meta Ads", "Google Ads", "Campaign Manager", "Adobe Analytics"],
-      outcomes: ["60% reduction in CPA", "150% increase in ROAS", "35% improvement in lead quality"]
+      technologies: ["Meta Ads", "Google Ads", "Campaign Manager", "Adobe Analytics", "Google Tag Manager"],
+      outcomes: ["90% customer website visibility in acquisition", "100% visibility in customer drop-off", "35% improvement in lead quality"]
     },
     {
       title: "Multi-Platform Campaign Optimization",
       description: "Optimized cross-platform advertising campaigns across Meta and Google Ads, achieving 60% reduction in cost-per-acquisition while increasing lead quality.",
       icon: <Target className="h-8 w-8 text-primary" />,
-      technologies: ["Meta Ads", "Google Ads", "Campaign Manager", "Adobe Analytics"],
-      outcomes: ["60% reduction in CPA", "150% increase in ROAS", "35% improvement in lead quality"]
+      technologies: ["Meta Ads", "Google Ads", "Campaign Manager", "Adobe Analytics", "Google Analytics 4"],
+      outcomes: ["60% reduction in CPA", "150% increase in ROAS", "30% improvement in lead quality"]
     },
     {
       title: "Brand Partnership Analytics Platform",
       description: "Developed a comprehensive tracking system for brand sponsorship campaigns, providing detailed ROI analysis and performance metrics for partnership decisions.",
       icon: <Users className="h-8 w-8 text-primary" />,
-      technologies: ["Custom Analytics", "SQL", "Python", "Tableau"],
-      outcomes: ["Real-time ROI tracking", "45% improvement in partnership decisions", "Automated reporting system"]
+      technologies: ["Custom Analytics", "Social Media Listening", "Advanced Excel", "PowerPoint"],
+      outcomes: ["Real-time brand tracking", "45% improvement in partnership decisions","improving communication negotiations by 25%", "Benchmarked brand and competitor digital assets"]
     },
     {
       title: "Social Media Performance Engine",
       description: "Created an automated social media tracking and reporting system that monitors engagement, reach, and conversion metrics across all major platforms.",
       icon: <Zap className="h-8 w-8 text-primary" />,
-      technologies: ["Social Media APIs", "GTM", "GA4", "Custom Dashboards"],
+      technologies: ["Social Media APIs", "GTM", "GA4", "Custom Dashboards","Hootsuite"],
       outcomes: ["Automated daily reports", "50% time savings", "Improved content strategy"]
     },
     {
-      title: "Revenue Attribution Model",
-      description: "Implemented a sophisticated attribution model for a SaaS company, providing clear visibility into the customer journey and revenue impact of each touchpoint.",
+      title: "E-commerce Business Dashboards - C Suite",
+      description: "Automated executive dashboards in Looker Studio", "reducing manual reporting time by 75%", "and enabling faster decision-making, providing clear visibility into the customer journey and revenue impact of each touchpoint.",
       icon: <TrendingUp className="h-8 w-8 text-primary" />,
-      technologies: ["BigQuery", "GA4", "Customer Journey Analytics", "SQL"],
+      technologies: ["GA4", "Customer Journey Analytics", "Looker Studio", "Power BI"],
       outcomes: ["End-to-end journey visibility", "30% improvement in budget allocation", "Enhanced customer insights"]
     }
   ];

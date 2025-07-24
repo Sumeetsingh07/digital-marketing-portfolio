@@ -6,14 +6,18 @@ const Skills = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
 
   const skills = [
-    { name: 'Google Analytics 4', level: 95, icon: <BarChart3 className="h-6 w-6" /> },
-    { name: 'Google Tag Manager', level: 90, icon: <Code className="h-6 w-6" /> },
-    { name: 'Adobe Analytics', level: 85, icon: <TrendingUp className="h-6 w-6" /> },
-    { name: 'SQL', level: 88, icon: <Database className="h-6 w-6" /> },
-    { name: 'BigQuery', level: 82, icon: <Zap className="h-6 w-6" /> },
+    { name: 'Google Analytics 4', level: 98, icon: <BarChart3 className="h-6 w-6" /> },
+    { name: 'Google Tag Manager', level: 95, icon: <Code className="h-6 w-6" /> },
+    { name: 'Adobe Analytics', level: 70, icon: <TrendingUp className="h-6 w-6" /> },
+    { name: 'Semrush', level: 96, icon: <Database className="h-6 w-6" /> },
+    { name: 'Looker Studio', level: 90, icon: <Zap className="h-6 w-6" /> },
     { name: 'Meta Ads', level: 93, icon: <MousePointer className="h-6 w-6" /> },
     { name: 'Google Ads', level: 91, icon: <MousePointer className="h-6 w-6" /> },
-    { name: 'Campaign Optimization', level: 89, icon: <TrendingUp className="h-6 w-6" /> }
+    { name: 'LinkedIn Ads', level: 92, icon: <TrendingUp className="h-6 w-6" /> }
+    { name: 'Hootsuite', level: 93, icon: <MousePointer className="h-6 w-6" /> },
+    { name: 'PowerPoint', level: 99, icon: <MousePointer className="h-6 w-6" /> },
+    { name: 'Campaign Manager', level: 83, icon: <TrendingUp className="h-6 w-6" /> }
+    { name: 'Salesforce', level: 80, icon: <TrendingUp className="h-6 w-6" /> }
   ];
 
   useEffect(() => {

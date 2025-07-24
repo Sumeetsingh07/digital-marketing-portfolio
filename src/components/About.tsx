@@ -27,8 +27,8 @@ const About = () => {
   return (
     <section id="about" className="py-20 section-bg">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="mb-16 animate-fade-in">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-heading mb-6 text-gradient text-justify">
+        <div className="text-center mb-16 animate-fade-in">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-heading mb-6 text-gradient">
             About Me
           </h2>
  <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed text-justify">
