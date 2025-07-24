@@ -5,10 +5,17 @@ const Projects = () => {
   const projects = [
     {
       title: "E-commerce Analytics Dashboard",
-      description: "Built a comprehensive GA4 dashboard for a major e-commerce client, resulting in 40% improvement in conversion tracking accuracy and actionable insights for product optimization.",
+      description: "Built a comprehensive GA4 dashboard for a major e-commerce client, resulting in 40% improvement in conversion tracking accuracy and actionable insights for website & product optimization.",
       icon: <BarChart3 className="h-8 w-8 text-primary" />,
-      technologies: ["GA4", "Google Tag Manager", "BigQuery", "Data Studio"],
-      outcomes: ["40% improved tracking accuracy", "25% increase in conversion rate", "Real-time inventory insights"]
+      technologies: ["GA4", "Google Tag Manager", "Googel Tag Manager", "Data Studio"],
+      outcomes: ["40% improved tracking accuracy", "20% increase in conversion rate", "Real-time actionable data insights"]
+    },
+      {
+      title: "End-2-End GA4 Tagging & Implementation",
+      description: "Optimized cross-platform advertising campaigns across Meta and Google Ads, achieving 60% reduction in cost-per-acquisition while increasing lead quality.",
+      icon: <Target className="h-8 w-8 text-primary" />,
+      technologies: ["Meta Ads", "Google Ads", "Campaign Manager", "Adobe Analytics"],
+      outcomes: ["60% reduction in CPA", "150% increase in ROAS", "35% improvement in lead quality"]
     },
     {
       title: "Multi-Platform Campaign Optimization",

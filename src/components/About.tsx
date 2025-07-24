@@ -32,8 +32,15 @@ const About = () => {
             About Me
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Passionate digital marketing professional with extensive experience in analytics, 
-            campaign optimization, and data-driven decision making.
+            With over 7 years of experience in digital consulting, I specialize in transforming complex customer and website data into actionable strategies that fuel business growth across Insurance, Pharma, and E-commerce domains. 📊
+
+           My core expertise lies in Google Analytics 4 (GA4), website analytics, and mapping the customer data journey—from first touchpoint to conversion. I design and implement precise tracking frameworks to uncover user behaviors, identify drop-offs, and optimize engagement across platforms.
+
+           Beyond data collection, I focus on storytelling through analytics—building insightful narratives that help brands understand their audience, fine-tune their digital presence, and stand out in competitive markets. 🚀
+
+           I also work extensively on social media insights and brand impact analysis, especially in the context of global sponsorships—ensuring every collaboration is strategic, measurable, and aligned with brand goals. 🌐
+
+           Let’s connect to explore how customer-centric analytics and strategic data storytelling can elevate your digital game.
           </p>
         </div>
 

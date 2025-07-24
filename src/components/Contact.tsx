@@ -35,19 +35,19 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6" />,
       label: "Email",
-      value: "sumeet.singh@example.com",
-      href: "mailto:sumeet.singh@example.com"
+      value: "sumeet12singh@gmail.com",
+      href: "mailto:sumeet12singh@gmail.com"
     },
     {
       icon: <Phone className="h-6 w-6" />,
       label: "Phone",
-      value: "+1 (555) 123-4567",
-      href: "tel:+15551234567"
+      value: "+91 (555) 123-4567",
+      href: "tel:+917737087962"
     },
     {
       icon: <MapPin className="h-6 w-6" />,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Bangalore, IN",
       href: null
     }
   ];
@@ -56,7 +56,7 @@ const Contact = () => {
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/sumeetsingh",
+      href: "https://www.linkedin.com/in/sumeet-singh07/",
       color: "hover:text-blue-600"
     },
     {
@@ -68,7 +68,7 @@ const Contact = () => {
     {
       icon: <Mail className="h-5 w-5" />,
       label: "Email",
-      href: "mailto:sumeet.singh@example.com",
+      href: "mailto:sumeet12singh@gmail.com",
       color: "hover:text-red-600"
     }
   ];
