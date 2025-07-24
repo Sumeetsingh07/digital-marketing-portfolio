@@ -27,18 +27,18 @@ const About = () => {
   return (
     <section id="about" className="py-20 section-bg">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-16 animate-fade-in">
+        <div className="mb-16 animate-fade-in">
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-heading mb-6 text-gradient text-justify">
             About Me
           </h2>
  <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed text-justify">
-  With 7+ years of experience in digital consulting, I turn complex website and customer data into actionable strategies that drive growth across Insurance, Pharma, and E-commerce. 📊
+  With 7+ years of experience in digital consulting, I turn complex website and customer data into actionable strategies that drive growth across Insurance, Pharma, and E-commerce. 📊<br />
 
   My expertise spans Google Analytics 4 (GA4), website analytics, and full-funnel customer journey mapping—from the first touchpoint to conversion. I craft tracking frameworks that reveal user behavior, pinpoint drop-offs, and boost engagement.
 
-  Beyond data collection, I specialize in storytelling with analytics—translating numbers into insights that help brands understand audiences, refine digital presence, and stay ahead in competitive markets. 🚀
+  Beyond data collection, I specialize in storytelling with analytics—translating numbers into insights that help brands understand audiences, refine digital presence, and stay ahead in competitive markets. 🚀<br />
 
-  I also analyze social media performance and brand impact, particularly in global sponsorships—ensuring every collaboration is measurable, strategic, and aligned with brand goals. 🌐
+  I also analyze social media performance and brand impact, particularly in global sponsorships—ensuring every collaboration is measurable, strategic, and aligned with brand goals. 🌐<br />
 
   Let’s connect to explore how data-driven storytelling can elevate your digital strategy.
 </p>
