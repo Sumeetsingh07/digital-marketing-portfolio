@@ -28,20 +28,21 @@ const About = () => {
     <section id="about" className="py-20 section-bg">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16 animate-fade-in">
-          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-heading mb-6 text-gradient">
+          <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold font-heading mb-6 text-gradient text-justify">
             About Me
           </h2>
-          <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            With over 7 years of experience in digital consulting, I specialize in transforming complex customer and website data into actionable strategies that fuel business growth across Insurance, Pharma, and E-commerce domains. 📊
+ <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed text-justify">
+  With 7+ years of experience in digital consulting, I turn complex website and customer data into actionable strategies that drive growth across Insurance, Pharma, and E-commerce. 📊
 
-           My core expertise lies in Google Analytics 4 (GA4), website analytics, and mapping the customer data journey—from first touchpoint to conversion. I design and implement precise tracking frameworks to uncover user behaviors, identify drop-offs, and optimize engagement across platforms.
+  My expertise spans Google Analytics 4 (GA4), website analytics, and full-funnel customer journey mapping—from the first touchpoint to conversion. I craft tracking frameworks that reveal user behavior, pinpoint drop-offs, and boost engagement.
 
-           Beyond data collection, I focus on storytelling through analytics—building insightful narratives that help brands understand their audience, fine-tune their digital presence, and stand out in competitive markets. 🚀
+  Beyond data collection, I specialize in storytelling with analytics—translating numbers into insights that help brands understand audiences, refine digital presence, and stay ahead in competitive markets. 🚀
 
-           I also work extensively on social media insights and brand impact analysis, especially in the context of global sponsorships—ensuring every collaboration is strategic, measurable, and aligned with brand goals. 🌐
+  I also analyze social media performance and brand impact, particularly in global sponsorships—ensuring every collaboration is measurable, strategic, and aligned with brand goals. 🌐
 
-           Let’s connect to explore how customer-centric analytics and strategic data storytelling can elevate your digital game.
-          </p>
+  Let’s connect to explore how data-driven storytelling can elevate your digital strategy.
+</p>
+
         </div>
 
         <div className="grid lg:grid-cols-2 gap-12 items-center">
